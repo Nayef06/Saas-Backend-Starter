@@ -49,40 +49,12 @@ prisma/
 
 ## **Setup**
 
-1. Install dependencies:
-
-   ```bash
-   pnpm install
-   ```
-
-2. Copy `.env.example` → `.env` and fill in:
-
-   * PostgreSQL URL
-   * Redis URL
-   * Stripe keys
-   * JWT secret
-
-3. Run database migrations:
-
-   ```bash
-   pnpm prisma migrate dev
-   ```
-
-4. Start the dev server:
-
-   ```bash
-   pnpm dev
-   ```
-
+WIP
 ---
 
 ## **Scripts**
 
-* `pnpm dev` — Start development server
-* `pnpm build` — Build TypeScript
-* `pnpm start` — Run production build
-* `pnpm test` — Run tests (if added later)
-
+WIP
 ---
 
 ## **Notes**
